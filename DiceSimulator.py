@@ -11,12 +11,12 @@ pygame.display.set_caption("Dice Simulator")
 
 # Load dice images
 dice_images = [
-    pygame.image.load('C:/Users/ANKIT ROY/Downloads/faceone.png'),
-    pygame.image.load('C:/Users/ANKIT ROY/Downloads/facetwo.png'),
-    pygame.image.load('C:/Users/ANKIT ROY/Downloads/facethree.png'),
-    pygame.image.load('C:/Users/ANKIT ROY/Downloads/facefour.png'),
-    pygame.image.load('C:/Users/ANKIT ROY/Downloads/facefive.png'),
-    pygame.image.load('C:/Users/ANKIT ROY/Downloads/facesix.png')
+    pygame.image.load('/faceone.png'),
+    pygame.image.load('/facetwo.png'),
+    pygame.image.load('/facethree.png'),
+    pygame.image.load('/facefour.png'),
+    pygame.image.load('/facefive.png'),
+    pygame.image.load('/facesix.png')
 ]
 
 # Function to draw a dice
